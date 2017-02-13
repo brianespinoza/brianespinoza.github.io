@@ -57,3 +57,8 @@ ul > li {
 li a {
     text-decoration: none;
 }
+
+embed  {
+    align-content: center;
+    margin: 0;
+}
