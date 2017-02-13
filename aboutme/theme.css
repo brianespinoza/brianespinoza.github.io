@@ -62,4 +62,6 @@ embed  {
     display: block;
     margin: auto;
     padding-top: 10px;
+    height: auto;
+    width: 100%;
 }
