@@ -61,4 +61,5 @@ li a {
 embed  {
     display: block;
     margin: auto;
+    padding-top: 10px;
 }
